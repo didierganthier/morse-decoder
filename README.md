@@ -33,7 +33,7 @@ A Morse code decoder app built with Ruby. It allows users to input Morse code an
 
 # 📖 Morse Decoder <a name="about-project"></a>
 
-**MORSE-CODE_RUBY** updated upon project completion.
+> A Morse code decoder app built with Ruby. It allows users to input Morse code and translates it into human-readable text. This app can be useful for learning Morse code, practicing decoding skills, or as a tool for communication in emergency situations. The app includes a simple command-line interface and is easy to use.
 
 ## 🛠 Built With <a name="built-with"></a>
 
