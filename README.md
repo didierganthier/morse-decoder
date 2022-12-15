@@ -2,7 +2,7 @@
 
 <!-- describe the purpose of this project -->
 
-This project is a command line application that takes a morse code and turns it into words. It is a part of the Microverse Ruby curriculum. The goal of this project is to practice Object Oriented Programming in Ruby. The project is built using Ruby.
+A Morse code decoder app built with Ruby. It allows users to input Morse code and translates it into human-readable text. This app can be useful for learning Morse code, practicing decoding skills, or as a tool for communication in emergency situations. The app includes a simple command-line interface and is easy to use.
 
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
